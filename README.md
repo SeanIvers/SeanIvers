@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SeanIvers
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Version Control
+- 🌱 I’m currently attending Coding Dojo
 - 💞️ I’m looking to collaborate on any Web App
 - 📫 How to reach me seanivers55@gmail.com
 

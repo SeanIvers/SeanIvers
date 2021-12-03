@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SeanIvers
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently attending Coding Dojo
-- 💞️ I’m looking to collaborate
+- 💞️ I'm looking for employment
 - 📫 How to reach me seanivers55@gmail.com
 
 <!---

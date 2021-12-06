@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SeanIvers
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently attending Coding Dojo
-- 💞️ I'm looking for employment
-- 📫 How to reach me seanivers55@gmail.com
+Sean Ivers
+Software Developer
+https://www.linkedin.com/in/sean-ivers/
+seanivers55@gmail.com
+(774) 487-8958
 
 <!---
 SeanIvers/SeanIvers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
